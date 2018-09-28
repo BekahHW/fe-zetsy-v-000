@@ -39,7 +39,7 @@ h1, h2 {
 }
 
 #hero {
-  border: 5px solid #bebebe;
+  border: 5px solid rgb(152,173,166);
   /*border-image: url(necklace.jpg);*/
 
 }
