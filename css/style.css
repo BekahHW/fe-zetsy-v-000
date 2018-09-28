@@ -31,7 +31,7 @@ h1, h2 {
   color: #bebebe;
 }
 
-#title {
+#title a {
   font-family: "Baskerville", "Times New Roman", serif;
   text-decoration: none;
   color: rgb(152,173,166);
