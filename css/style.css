@@ -45,7 +45,7 @@ h1, h2 {
 }
 
 .logo img {
-    border: 3px solid #d3d3d3;
+    border: 3px solid rgb(111,127,122);
 }
 
 .grid-container {
