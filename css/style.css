@@ -34,7 +34,7 @@ h1, h2 {
 #title {
   font-family: "Baskerville", "Times New Roman", serif;
   text-decoration: none;
-  color: rgb(152,173,166);
+  /*color: rgb(152,173,166);*/
   font-size: 5em;
 }
 
